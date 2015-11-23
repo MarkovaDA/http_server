@@ -3,4 +3,4 @@
 
 компиляция: gcc http_server.c -o http_server
 
-запуск: ./http_server 9999 htdocs
+запуск: ./http_server <port> <web_root>
